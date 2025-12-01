@@ -13,7 +13,5 @@ I’m a software and data engineer with experience building data pipelines, anal
 
 Designing systems that make complex data usable. I enjoy working across the full pipeline, from ingestion and transformation to retrieval, analysis, and reporting, and building tools that make that process efficient and maintainable.
 
-## Contact
-
-Open to software engineering, data engineering, and ML/AI engineering opportunities.  
+## Contact 
 You can connect with me on LinkedIn or reach out directly.
