@@ -1,6 +1,6 @@
 # Vishal Soman
 
-I’m a software and data engineer with experience building data pipelines, analytical tooling, and machine learning workflows. My work spans large-scale data processing, backend architecture, and applied NLP/ML systems. I focus on reliable engineering, clear structure, and reproducible results.
+I’m a data and software engineer with experience building data pipelines, analytical tooling, and machine learning workflows. My work spans large-scale data processing, backend architecture, and applied NLP/ML systems. I focus on reliable engineering, clear structure, and reproducible results.
 
 ## Areas of Focus
 
