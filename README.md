@@ -4,10 +4,11 @@ I'm a data engineer focused on building scalable data pipelines, analytical tool
 
 ## Areas of Focus
 
-- Data engineering: ETL, data modeling, SQL/PostgreSQL, workflow automation  
+- Data engineering: ETL, data modeling, SQL/PostgreSQL, workflow automation
+- Analytics: exploratory analysis, feature engineering, dashboard development
 - Software engineering: Python, backend development, containerized applications  
 - ML/NLP: document ingestion, vector search, retrieval pipelines, evaluation tools  
-- Analytics: exploratory analysis, feature engineering, dashboard development
+
 
 ## What I’m Interested In
 
